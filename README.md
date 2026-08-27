@@ -1,12 +1,14 @@
 # Heaven Cast
 
+[![Heaven Cast running over a live race](media/demo.gif)](https://github.com/Nighty3333/HeavenCast/releases/download/v1.0.0/HeavenCast.mp4)
+
+Click the clip for the full recording with sound.
+
 A broadcast overlay and race-control app for Umamusume Pretty Derby streams. It watches the replay the game already loaded, works out live rankings, gaps, and race events on its own, and hands OBS a clean, transparent 1920x1080 layer to put on top of the game.
 
 No manual spotting, no clicking through a spreadsheet mid-race. Start a 3D race and the overlay just runs.
 
-[![Heaven Cast running over a live race](media/demo.gif)](https://github.com/Nighty3333/HeavenCast/releases/download/v1.0.0/HeavenCast.mp4)
-
-Click the clip for the full recording with sound.
+Questions, feedback, or just want to see it running live? [Join the Discord](https://discord.com/invite/SpCGcXMeFt).
 
 ## What it does
 
