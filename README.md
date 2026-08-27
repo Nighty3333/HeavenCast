@@ -4,6 +4,10 @@ A broadcast overlay and race-control app for Umamusume Pretty Derby streams. It 
 
 No manual spotting, no clicking through a spreadsheet mid-race. Start a 3D race and the overlay just runs.
 
+[![Heaven Cast running over a live race](media/demo.gif)](https://github.com/Nighty3333/HeavenCast/releases/download/v1.0.0/HeavenCast.mp4)
+
+Click the clip for the full recording with sound.
+
 ## What it does
 
 - Five broadcast layouts, switchable per profile, each with its own read on how to present a race
