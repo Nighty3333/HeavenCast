@@ -1,0 +1,15 @@
+Heaven Cast
+Copyright (c) 2026 Heaven. All rights reserved.
+
+Permission is granted to the recipient to install and use this software for
+personal streaming and broadcast production.
+
+The software and its accompanying assets may not be sold, sublicensed,
+redistributed, modified, or incorporated into another product without prior
+written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
