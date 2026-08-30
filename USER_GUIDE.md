@@ -114,6 +114,13 @@ Start Umamusume and enter a new 3D race. If the game was already inside a race w
 
 Another application has reserved that key. Choose a different key in the control room.
 
+### Game data was not detected
+
+Heaven Cast looks for the folder Umamusume keeps its data in, normally under `AppData\LocalLow`.
+Open the game once so it has downloaded its data, then press **Check for updates**. The control
+room shows the folder it is using; if Windows keeps your AppData somewhere unusual and detection
+still fails, that folder can be set manually.
+
 ### Portrait update fails
 
 Confirm that the global Umamusume installation is present and fully updated. Retry **Check for updates** after closing any application that may be scanning the game files.
